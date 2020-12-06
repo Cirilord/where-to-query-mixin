@@ -1,5 +1,5 @@
 {
-    "name": "where-to-query-mixin",
+    "name": "@realcirilord/where-to-query-mixin",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -15,5 +15,10 @@
     "bugs": {
         "url": "https://github.com/Cirilord/where-to-query-mixin/issues"
     },
-    "homepage": "https://github.com/Cirilord/where-to-query-mixin#readme"
+    "homepage": "https://github.com/Cirilord/where-to-query-mixin#readme",
+    "keywords": [
+        "loopback",
+        "where",
+        "query"
+    ]
 }
